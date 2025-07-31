@@ -1,5 +1,5 @@
 # --- Title and Description ---
-# Membrane mechanics simulation
+# CME Simulation
 # Based on MemberaneMechanics_Hassinger_PNAS_2017: https://www.pnas.org/doi/full/10.1073/pnas.1617705114
 # The original code could be found on Rangamani Lab github: https://github.com/Rangamani-Lab/hassinger-rangamani-2017/tree/master 
 # Author: Anoosh Mahdavian

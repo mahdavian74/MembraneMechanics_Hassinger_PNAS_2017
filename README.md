@@ -1,17 +1,11 @@
-# %%
 # --- Title and Description ---
-
 # Membrane mechanics simulation
 # Based on MemberaneMechanics_Hassinger_PNAS_2017: https://www.pnas.org/doi/full/10.1073/pnas.1617705114
 # The original code could be found on Rangamani Lab github: https://github.com/Rangamani-Lab/hassinger-rangamani-2017/tree/master 
-
 # Author: Anoosh mahdavian
 # July 2025
 # Last Edit: [31 July 2025]
-
-# %%
 # --- Code Structure ---
-# The code contains:
     # - Imprting the needed packages
     # - Ploting style
     # - Getting tension and coating area from the user
@@ -24,13 +18,12 @@
     # - 7. Visualization
     # - Sweep values over the arguments
     # - Save the animation 
-
 # --- Reference Parameters ---
-# R0 = 20                                                 
-# kappa0_bare = 320
-# kappa0_coat = 2400                                      
-# gamma = 20
-# C0 = 0.02  
-# alpha_max = 100
-# lamda0= [2, 0.2, 0.02, 0.002]
-# coating_range = (1,12,100)     
+    # R0 = 20                                                 
+    # kappa0_bare = 320
+    # kappa0_coat = 2400                                      
+    # gamma = 20
+    # C0 = 0.02  
+    # alpha_max = 100
+    # lamda0= [2, 0.2, 0.02, 0.002]
+    # coating_range = (1,12,100)     

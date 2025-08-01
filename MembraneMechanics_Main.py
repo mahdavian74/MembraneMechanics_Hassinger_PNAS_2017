@@ -8,7 +8,7 @@
 # Author: Anoosh mahdavian
 # July 2025
 # Last Edit: [31 July 2025]
-# I just want to see if I can push through VS
+# This is Also A sign That My changes Applied
 
 # %%
 # --- Code Structure ---
@@ -323,7 +323,7 @@ def create_animation(lambda_val, alpha_range, filename, mesh_size=10000):
 
         # Define coated region limit from alpha
         x_coated = np.sqrt(2 * alpha_val) * R0
-        x_full, y_full = successful_frames[i]
+        x_full, y_full, alpha_val = successful_frames[i]
 
         # Find left and right indices where coating ends
         left_coated_end = np.searchsorted(x_full, -x_coated)

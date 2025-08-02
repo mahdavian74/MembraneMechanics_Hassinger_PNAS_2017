@@ -1,4 +1,6 @@
-# '''MembraneMechanics_Main.py''' Code Structure
+# '''
+MembraneMechanics_Main.py
+''' Code Structure
 The '''MembraneMechanics_Main.py''' is the extended version that includes:
      - Imprting the needed packages
      - Ploting style

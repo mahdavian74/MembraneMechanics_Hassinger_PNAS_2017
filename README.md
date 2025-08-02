@@ -8,16 +8,21 @@ The original code in MATLAB: https://github.com/Rangamani-Lab/hassinger-rangaman
 Author: Anoosh Mahdavian
 Aug 2025; Last Edit: [25 July 2025]
 # --- Code Structure and Branches ---
-     This package consists a basic form which is only the essential parts: 
+    This package consists a basic form which is only the essential parts: 
          - 1. The physical parameter determination, 
          - 2. The parametrization of arch length and area of curvature 
          - 3. The set of 6 ODEs to be solved
          - 4. The BCs
          - 5. The initial Guess
          - 6. The solver   
-    This structure is general and can be adapted for sweeping over various parameters (e.g., lambda0, C0, coated area, or actin forces). It is not a standalone executable for all analyses but rather a clean foundation for exploration.
+    This structure is general and can be adapted for sweeping over various parameters
+    (e.g., lambda0, C0, coated area, or actin forces). 
+    It is not a standalone executable for all analyses but rather a clean foundation for exploration.
     
-    An extended version that includes Loops over varying clathrin-coated areas, automated parameter sweeps, GIF animation saving, and batch visualization of membrane shapes is in the master branch. See the master/README.md file for specific instructions on how to run this version.
+    An extended version that includes Loops over varying clathrin-coated areas, 
+    automated parameter sweeps, GIF animation saving, 
+    and batch visualization of membrane shapes is in the master branch. 
+    See the master/README.md file for specific instructions on how to run this version.
 # --- Reference Parameters ---
     R0 = 20                         # Reference radius of the membrane (nm)
     kappa0_bare = 320               # Bending rigidity of bare membrane (pN·nm)

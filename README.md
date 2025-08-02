@@ -1,7 +1,7 @@
 # --- Title and Description ---
 # CME Simulation
-# Based on MemberaneMechanics_Hassinger_PNAS_2017: https://www.pnas.org/doi/full/10.1073/pnas.1617705114
-# The original code could be found on Rangamani Lab github: https://github.com/Rangamani-Lab/hassinger-rangamani-2017/tree/master 
+# Based on Hassinger paper published in PNAS 2017 : https://www.pnas.org/doi/full/10.1073/pnas.1617705114
+# The original code: https://github.com/Rangamani-Lab/hassinger-rangamani-2017/tree/master 
 # Author: Anoosh Mahdavian
     # July 2025
     # Last Edit: [31 July 2025]

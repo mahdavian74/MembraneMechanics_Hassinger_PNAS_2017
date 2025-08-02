@@ -19,7 +19,7 @@ parameter sweeps and animation saving for different coated regions and membrane 
 
 ## Running the Code
 After cloning the repository, you can run the simulation using:
-```python
+```bash
 python MembraneMechanics_Main.py --lambdas 0.02 --alpha_start 0.5 --alpha_end 12 --n_alpha 150
 ```
 - `--lambdas`: A single value or a list of membrane tensions (e.g., `0.02` or `[0.2, 0.02]`)  

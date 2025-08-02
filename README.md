@@ -1,8 +1,7 @@
-## 📄 `MembraneMechanics_Main.py`
+##  `MembraneMechanics_Main.py` Code Structure
 
-### 🧩 Code Structure
-
-`MembraneMechanics_Main.py` is the **extended version** of the simulation that includes:
+`MembraneMechanics_Main.py` is the **extended version** of the `MembraneMechanics_Basic.py` that include
+parameter sweeps and animation saving for different coated regions and membrane tensions. It main Parts are: 
 
 - Importing required packages  
 - Setting plot styles  
@@ -20,21 +19,14 @@
 
 ---
 
-### ▶️ Running the Code
+## Running the Code
 
 After cloning the repository, you can run the simulation using:
-
-
-
-#### 🔧 Command-line arguments:
 
 - `--lambdas`: A single value or a list of membrane tensions (e.g., `0.02` or `0.2 0.02`)  
 - `--alpha_start`, `--alpha_end`: Start and end of coated arclength range  
 - `--n_alpha`: Number of discretization points between `alpha_start` and `alpha_end`  
 
----
-
-### ⚙️ Default Behavior
 
 If no arguments are provided, the following defaults are used:
 

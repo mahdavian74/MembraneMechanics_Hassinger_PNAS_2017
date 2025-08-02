@@ -2,6 +2,7 @@
 Python Simulation of clathrin-mediated endocytosis (CME) based on the membrane mechanics model proposed in:
 Hassinger et al., *"Design principles for robust vesiculation in clathrin-mediated endocytosis,"* PNAS, 2017  
 https://www.pnas.org/doi/full/10.1073/pnas.1617705114
+
 The original MATLAB code is available here:  
 https://github.com/Rangamani-Lab/hassinger-rangamani-2017/tree/master
 

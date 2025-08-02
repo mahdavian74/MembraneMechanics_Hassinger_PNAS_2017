@@ -1,4 +1,4 @@
-##  `MembraneMechanics_Main.py` Code Structure
+##  Code Structure of `MembraneMechanics_Main.py` 
 
 `MembraneMechanics_Main.py` is the **extended version** of the `MembraneMechanics_Basic.py` that include
 parameter sweeps and animation saving for different coated regions and membrane tensions. It main Parts are: 

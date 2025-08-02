@@ -1,5 +1,5 @@
-# MembraneMechanics_Main.py Code Structure
-The MembraneMechanics_Main.py is the extended version that includes:
+# '''MembraneMechanics_Main.py''' Code Structure
+The '''MembraneMechanics_Main.py''' is the extended version that includes:
      - Imprting the needed packages
      - Ploting style
      - Getting tension and coating area from the user

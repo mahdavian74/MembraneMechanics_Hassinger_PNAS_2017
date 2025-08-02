@@ -6,7 +6,7 @@ The original MATLAB code is available here:
 https://github.com/Rangamani-Lab/hassinger-rangamani-2017/tree/master
 
 **Author:** Anoosh Mahdavian  
-📅 August 2025 | ✏️ Last Edit: July 25, 2025
+📅 August 2025 |  Last Edit: 1 Aug, 2025
 
 ---
 
@@ -36,7 +36,7 @@ The extended version includes:
 - Visualization of membrane shapes  
 - Saving results as `.gif` animations  
 
-See [`master/README.md`](./master/README.md) for full instructions on how to run this version.
+See [`master/README.md`](https://github.com/mahdavian74/MembraneMechanics_Hassinger_PNAS_2017/blob/master/README.md) for full instructions on how to run this version.
 
 ---
 

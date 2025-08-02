@@ -16,6 +16,7 @@ parameter sweeps and animation saving for different coated regions and membrane 
 - Sweeping values over input parameters  
 - Saving results as animated GIFs  
 
+---
 
 ## Running the Code
 After cloning the repository, you can run the simulation using:
@@ -33,7 +34,7 @@ If no arguments are provided, the following defaults are used:
 lambda0 = [2, 0.2, 0.02, 0.002]         # Membrane tensions (pN/nm)
 coating_range = (0.5, 12, 150)          # Coated arclength range and resolution
 ```
-
+---
 ## Output
 The resulting GIF animations will be saved in
 ./animations

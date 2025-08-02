@@ -1,4 +1,4 @@
-# --- Title and Description ---
+# Title and Description 
 Simulation of clathrin-mediated endocytosis (CME) based on the membrane mechanics model proposed in: Hassinger et al., "Design principles for robust vesiculation in clathrin-mediated endocytosis," PNAS, 2017
 
 Based on Hassinger paper published in PNAS 2017 : https://www.pnas.org/doi/full/10.1073/pnas.1617705114
@@ -7,7 +7,7 @@ The original code in MATLAB: https://github.com/Rangamani-Lab/hassinger-rangaman
 
 Author: Anoosh Mahdavian
 Aug 2025; Last Edit: [25 July 2025]
-# --- Code Structure and Branches ---
+# Code Structure and Branches
     This package consists a basic form which is only the essential parts: 
          - 1. The physical parameter determination, 
          - 2. The parametrization of arch length and area of curvature 
@@ -23,7 +23,7 @@ Aug 2025; Last Edit: [25 July 2025]
     automated parameter sweeps, GIF animation saving, 
     and batch visualization of membrane shapes is in the master branch. 
     See the master/README.md file for specific instructions on how to run this version.
-# --- Reference Parameters ---
+# Reference Parameters
     R0 = 20                         # Reference radius of the membrane (nm)
     kappa0_bare = 320               # Bending rigidity of bare membrane (pN·nm)
     kappa0_coat = 2400              # Bending rigidity of coated membrane (pN·nm)

@@ -32,3 +32,7 @@ If no arguments are provided, the script uses the following defaults:
 # Output
 The coresponding results will save in ./anmations
      
+```python
+# Run the extended simulation with a specific tension and coating range
+python MembraneMechanics_Main.py --lambdas 0.02 --alpha_start 0.5 --alpha_end 12 --n_alpha 150
+```

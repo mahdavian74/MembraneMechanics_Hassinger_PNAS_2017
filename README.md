@@ -37,7 +37,9 @@ coating_range = (0.5, 12, 150)          # Coated arclength range and resolution
 ---
 ## Output
 The resulting GIF animations will be saved in
-./animations
+./animations. For example the increasing the coated area to see the deformations.
+
+
 ![membrane_animation_lambda2 0](https://github.com/user-attachments/assets/0690282e-dcbc-46c8-b86d-9a9a05b83173)
 ![membrane_animation_lambda0 002](https://github.com/user-attachments/assets/5d5720d5-2a4d-4acc-8dcf-e3c648fec182)
 

@@ -1,5 +1,6 @@
 # Title and Description
 **Python Simulation of Clathrin-Mediated Endocytosis (CME) Based on the Membrane Mechanics Model**
+
 This project replicates the membrane deformation model presented in Hassinger et al. (PNAS, 2017), which describes the physics of clathrin-mediated endocytosis using a mechanical model of a deforming membrane. The simulation solves a system of 6 nonlinear ODEs using boundary value problem (BVP) solvers in Python to compute axisymmetric membrane shapes.
 
 Hassinger et al., *"Design principles for robust vesiculation in clathrin-mediated endocytosis,"* PNAS, 2017  
